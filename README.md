@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thishan Dhananjaya</h1>
 <h3 align="center">A Computer Science Undergraduate at Eastern University, Sri Lanka — Focusing in Cybersecurity and Ethical Hacking.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thishandhananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="thishandhananjaya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thishandhananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="thishandhananjaya" /> </p>
 
 - 🔭 I’m currently working on **Vishing Detection System Using Machine Learning**
 
